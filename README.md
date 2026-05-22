@@ -1,2 +1,22 @@
-# Social-Media-Usage-and-Impact-Survey
-Interactive social media analytics dashboard using Python for analyzing user behavior, platform usage patterns, mental health impact, and engagement trends with advanced visualizations.
+# Social Media Usage and Mental Health Dashboard
+
+## Overview
+Interactive analytics dashboard for analyzing social media usage patterns and mental health impact.
+
+## Features
+- Age Distribution Analysis
+- Platform Usage Analysis
+- Mental Health Impact Analysis
+- Heatmaps & KPI Metrics
+- Advanced Data Visualization
+
+## Technologies Used
+- Python
+- pandas
+- matplotlib
+- seaborn
+- NumPy
+
+## Author
+Drashti Peshivadiya
+MBA FinTech
